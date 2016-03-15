@@ -1,1 +1,3 @@
 *.pyc
+main/__pycache__/*
+recambios/__pycache__/*
